@@ -77,10 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="itextsharp">
-      <HintPath>..\..\..\..\..\itextsharp-all-5.5.9\itextsharp-dll-core\itextsharp.dll</HintPath>
-    </Reference>
-    <Reference Include="itextsharp.xtra">
-      <HintPath>..\..\..\..\..\itextsharp-all-5.5.9\itextsharp-dll-xtra\itextsharp.xtra.dll</HintPath>
+      <HintPath>..\..\lib\itextsharp.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.Common">
       <HintPath>Microsoft.ReportViewer.Common</HintPath>
@@ -88,7 +85,7 @@
     <Reference Include="Microsoft.ReportViewer.WinForms">
       <HintPath>Microsoft.ReportViewer.WinForms</HintPath>
     </Reference>
-    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />

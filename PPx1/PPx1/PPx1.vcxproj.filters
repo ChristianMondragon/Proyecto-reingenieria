@@ -58,9 +58,6 @@
     <EmbeddedResource Include="Nota.resx">
       <Filter>Archivos de recursos</Filter>
     </EmbeddedResource>
-    <EmbeddedResource Include="ListaReproduccion.resx">
-      <Filter>Archivos de recursos</Filter>
-    </EmbeddedResource>
     <EmbeddedResource Include="Reporte.resx">
       <Filter>Archivos de recursos</Filter>
     </EmbeddedResource>

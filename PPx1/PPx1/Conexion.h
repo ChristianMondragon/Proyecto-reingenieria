@@ -4,7 +4,7 @@
 using namespace System;
 using namespace System::Windows::Forms;
 using namespace MySql::Data::MySqlClient;
-
+//MONDRAGON TEST DE VISUAL ESTUDIO CON GIT 
 namespace PPx1{
 
 	/*Clase para conexion con gestor de base de datos MySQL*/
