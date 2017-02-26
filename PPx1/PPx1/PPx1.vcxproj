@@ -111,6 +111,17 @@
     <ClInclude Include="Reporte.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="TabExploradorWeb.h" />
+    <ClInclude Include="TabInicio.h" />
+    <ClInclude Include="TabMediaPlayer.h" />
+    <ClInclude Include="TabMiscelanea.h" />
+    <ClInclude Include="TabProductos.h" />
+    <ClInclude Include="TabProvedores.h" />
+    <ClInclude Include="TabCatsSubcats.h" />
+    <ClInclude Include="TabRealizarVenta.h" />
+    <ClInclude Include="TabUsuarios.h" />
+    <ClInclude Include="TabVentas.h" />
+    <ClInclude Include="Util.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="AgregarProducto.resx">
